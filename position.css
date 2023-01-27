@@ -1,0 +1,4 @@
+#parent{height:400px;width: 400px;background-color: brown;}
+#child{height:90px;width: 120px;background-color: darkgoldenrod;
+position:relative;
+right:-20px ;}

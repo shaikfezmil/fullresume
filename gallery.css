@@ -1,0 +1,20 @@
+.col{height: 300px;
+     width: 200px;
+     border:double black 2px;}
+.col-1{height: 300px;
+       width: 200px;
+       background-color: coral;}
+.col-2{height: 300px;
+       width:200px;
+        background-color: darkblue;}
+.col-3{height: 300px; 
+       width: 200px;
+       background-color: aquamarine;}        
+.col-4{height: 300px; 
+        width: 200px;
+        background-color:red;} 
+.row{height:350px;   
+       background-color: rgb(238, 109, 4);
+        display: flex;
+        justify-content: end;
+        align-items: flex-end;} 
